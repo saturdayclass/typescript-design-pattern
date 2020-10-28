@@ -1,3 +1,4 @@
+// Prototype Pattern ini digunakan untuk mencegah instasiasi class berulang kali tetapi nilai dari property yang di masukan tidak banyak berubah dari instasiasi sebelumnya
 namespace prototypePattern {
   class User {
     public name: string;
